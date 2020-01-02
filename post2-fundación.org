@@ -1,0 +1,86 @@
+#+title: La Fundación - Isaac Asimov
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* La Fundación - Isaac Asimov
+
+  182 páginas.
+
+** Trama
+
+   Isaac Asimov recrea la historia de la humanidad en un futuro distante.
+
+*** Los Psicohistoriadores
+   
+   El científico Hari Sheldom desarrolla una ciencia conocida como
+   'Psicohistoria' que es una ciencia de predicción del comportamiento
+   de masas, Sheldom se da cuenta que el Imperio (quien rige actualmente
+   en el Universo), está en decadencia y que si no se hace algo se avecinan
+   siglos de guerra.
+
+   Sheldom hace entonces un plan para minimizar la caída del Imperio y
+   minimizar también las guerrar y conflictos por ocurrir.
+
+*** Los Enciclopedistas
+
+   Sheldom reune un grupo de científicos en el planeta Trántor para que
+   documenten todo el conocimiento posible antes de la caída, todo esto
+   es una mentira para hechar a andar el verdadero plan, que por las
+   características necesarios para que la psicohistoria sea efectiva,
+   no lo debe saber nadie.
+
+   Salvor Hardin es un joven que ve el peligro que los embajadores de
+   Anacreonte representan para Trántor, pero los regidores del planeta
+   lo ignoran porque creen ciegamente en la inexistente protección del
+   Imperio (que ya empezaba a caer), debido a esto, decide asestar un golpe
+   de estado durante la proyección de Hari Sheldom, Sheldom mismo aparece
+   como una proyección cada cierto tiempo cuando se avecina una crisis y al
+   final revela que la creación de la enciclopedia era una mentira.
+
+*** Los Alcaldes
+
+    Salvor Hardin sigue siendo el alcalde de Trántor, han desarrollado una
+    religión (de mentira) como sacerdotes que manejan tecnología y de esta
+    manera han logrado prosperar y ejercer control.
+
+    Pero en Anacreonte están en contra de Trántor y el principe regente Wienis
+    quiere hacerse con el control total, la noche que Wienis lanza el ataque
+    en contra de la Fundación, ya Hardin estaba ejecutando un plan para
+    rechazarlo, desconecta todos sus sistemas y los obliga a firmar un
+    tratado de paz.
+
+    "La violencia es el último recurso del incompetente" - Salvor Hardin 
+
+*** Los Comerciantes
+
+    75 años después, a el comerciante Limmar Ponyets se le encarga la misión
+    de rescatar a Eskel Gorov, un comerciante que en realidad es un agente
+    de la fundación y que está preso en Askone, un mundo que rechaza la
+    tecnología que viene de la fundación.
+
+    Ponyets usa un transmutador de meta en oro para que los dirigentes de
+    Askone acepten su tecnología y al final terminan comprando todo el
+    cargamento.
+
+*** Los príncipes comerciantes
+
+    Veinte años después, a Hober Mallow se le encarga investigar Korell,
+    adonde han estado desapareciendo naves de la fundación.
+
+    Mallow descubre que en Korell (Y en Siwenna) el estado de la tecnología
+    es muy atrasada, Mallow logra que Argo Asper, líder de Korell, firme
+    un trato de comercio y le vende artículos de lujo.
+
+    El Comodoro de Korell decide, varios años después, atacar la fundación
+    pero debe rendirse a los tres años pues todos los artículos que al fin
+    lograron introducir dejan de funcionar.
+
+   
+** Opinión
+
+   Es toda una obra de arte, se nota que los estudios de química y de
+   la mecánica de gases son la inspiración de Isaac Asimov para la
+   psicohistoria.
+
+   También le tira tierra a la religión poniéndola como un instrumento
+   de control mental para los menos despiertos.

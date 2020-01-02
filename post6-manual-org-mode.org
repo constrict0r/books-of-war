@@ -1,0 +1,19 @@
+#+title: Manual de Org Mode - Los desarrolladores de Org Mode.
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* Manual de Org Mode - Los desarrolladores de Org Mode.
+
+  277 páginas.
+
+** Trama
+
+   El manual completo para el modo organizacional de Emacs.
+
+   
+** Opinión
+
+   Tan aburrido como un manual puede ser.
+
+   Org Mode es sin lugar a dudas la mejor manera de usar Emacs y si se
+   combina con GTD, es la mejor manera de organizarse.

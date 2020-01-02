@@ -2,4 +2,4 @@
 #+author: constrict0r
 #+date: <2020-01-02 jue>
 
-The Madvillain Books Reviews.
+[[https://constrict0r.gitlab.io/books-of-war/][Books of War - The Madvillain Books Review]]

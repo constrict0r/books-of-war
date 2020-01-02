@@ -4,6 +4,13 @@
 
 * Neuromante - William Gibson
 
+  250 páginas.
+
+  #+CAPTION: This is the caption for the next figure link (or table)
+  #+NAME:   fig:SED-HR4049
+  [[./img/00-neuromante.png]]
+
+
 ** Trama
 
  Una de las primeras novelas del género cyberpunk, este es el libro que

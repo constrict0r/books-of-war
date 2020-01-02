@@ -1,0 +1,20 @@
+#+title: Getting Things Done - David Allen
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* Getting Things Done - David Allen
+
+  278 páginas.
+
+** Trama
+
+   Este libro describe una metodología ágil de organización personal.
+   
+** Opinión
+
+   El libro plantea un estilo de vida en el que la vida se convierte en
+   una lista TODO.
+
+   Personalmente en mi camino hacia la iluminación GTD me parece una
+   herramienta indispensable y cuando se combina con Org Mode de Emacs, es
+   como ver magia.

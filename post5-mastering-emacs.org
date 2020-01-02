@@ -1,0 +1,17 @@
+#+title: Mastering Emacs - Mickey Petersen
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* Mastering Emacs - Mickey Petersen
+
+  277 páginas.
+
+** Trama
+
+   Un libro sobre el uso práctico de Emacs, incluye el movimiento, edición,
+   búsqueda, occur, TRAMP y algunos más.
+
+   
+** Opinión
+
+   Muy bien escrito, el mejor libro para empezar a aprender Emacs.

@@ -1,0 +1,23 @@
+#+title: Atomic Habits - James Clear
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* Atomic Habits - James Clear
+
+  283 páginas.
+
+** Trama
+
+   Este libro describe una metodología para crear buenos hábitos y
+   destruir los malos.
+
+   Se fundamenta en psicología, antropología, neurociencia, ciencia cognitiva
+   y ciencia del comportamiento para mostrar ejemplos y explicar como
+   funciona el cerebro relativo a los hábitos.
+   
+** Opinión
+
+   Este libro es una recopilación de entradas del blog de James Clear por lo
+   que por momentos se siente como estar leyendo un blog y no un libro.
+
+   La metodología en sí es un buen complemento para GTD.
