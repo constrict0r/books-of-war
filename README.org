@@ -3,3 +3,5 @@
 #+date: <2020-01-02 jue>
 
 [[https://constrict0r.gitlab.io/books-of-war/][The Madvillain Books Review]]
+
+[[./img/author.png]]
