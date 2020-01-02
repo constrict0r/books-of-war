@@ -1,0 +1,79 @@
+#+title: Neuromante - William Gibson
+#+author: constrict0r
+#+date: <2020-01-02 jue>
+
+* Neuromante - William Gibson
+
+** Trama
+
+ Una de las primeras novelas del género cyberpunk, este es el libro que
+ definió la palabra /ciberespacio/ y que fue una gran influencia en la
+ película 'la matrix'.
+
+ En un mundo futurista en el que se conecta al ciberespacio usando las
+ terminales nerviosas, se relata la historia del vaquero (hacker) caído en
+ desgracia 'Henry Case', por robar a un patrón, a Case lo castigaron
+ destruyendo sus terminales nerviosas y así quitándole toda posibilidad de
+ conectar nuevamente con el ciberespacio.
+
+ Case es contactado por una mujer llamada 'Molly Millions' quien le dice
+ que pueden reparar sus terminales nerviosas si acepta trabajar para ellos,
+ Molly está tecnológicamente mejorada con implantes oculares (y otros).
+
+ Cuando acepta el trato, Case conoce al jefe de Molly, 'Armitage', quien es un
+ militar corpulento y serio. A Case le hacen un tratamiento clínico en el
+ que corrigen sus terminales nerviosas y además le mejoran el estómago y el
+ páncrear, haciéndolo inmune a drogas como las metanfetaminas y la cocaína
+ (sustancias que usaba regularmente).
+
+ Armitage recluta en Estambul a Peter Rivera, un artista sociópata y
+ drogadicto que usa implantes de alta tecnología para proyectar ilusiones.
+
+ El trabajo consiste en llegar a la mansión del clan Tessier-Ashpool conocido
+ como /Villa Straylight/, para ayudar a la IA llamada 'Wintermute' a volverse
+ más inteligente, Wintermute es el verdadero cerebro detrás de la operación y
+ fue quién armó a Armitage a partir de los restos del coronel 'Willis Corto'.
+
+ Wintermute debe sortear las reestricciones de la empresa Global 'Turing'
+ que elimina cualquier IA que sobrepase un umbral de inteligencia, esta
+ es la razón por la que la empresa Tessier-Ashpool tuvo que armar dos
+ IAs separadas en lugar de una, la segunda IA se llama neuromante y se
+ encuentra en Río de Janeiro, el objetivo de Wintermute es fusionarse
+ con Neuromante ya que ella no es capaz por si sola de crear una conciencia.
+
+ El trabajo de Case es romper el hielo para que 'Turing' no pueda evitar la
+ fusión, Rivera debe de obtener la contraseña de la mujer llamada
+ 'Lady 3Jane' que es el clon descongelado de tercera generación de la hija de
+ Tessier-Ashpool y quién está al mando actualmente.
+
+ Pero Rivera los traiciona y con ayuda de Hideo, el ninja personal de
+ Lady 3Jane capturan a Molly, Case con ayuda de Maelcum, su piloto Rastafari,
+ ubican adonde tienen a Molly, cuando Case está en el ciberespacio haciendo
+ esto, Neuromante lo trata de atrapar en una realidad virtual pero lograr
+ escapar (en parte gracias al hecho que Maelcum le da una gran dosis de droga).
+
+ Cuando llegan a confrontar a Rivera, Lady 3Jane siente simpatía por Case y
+ Molly y se vuelve en contra de Rivera, Rivera ciega a Hideo con un láser pero
+ huye cuando se da cuenta que Hideo puede pelear sin usar la vista, Molly
+ le dice que lo deje escapar porque de todos modos ella ya lo había
+ envenenado mortalmente antes de la misión.
+
+ Finalmente Lady 3Jane da el password y Wintermute se fusiona con Neuromante,
+ a todos les pagan inmediatamente y generosamente.
+
+ Molly deja a Case y luego de cinco años la fusión de Wintermute y Neuromante,
+ que ahora se llama 'La Matriz', contacta a Case y le dice que descubrió
+ una IA como ella transmitiendo desde Alpha Centauri en una grabaciones
+ antigüas de los 70s.
+
+** Opinión
+
+   Excelente que este libro abrió una puerta para todo un género de ciencia
+   ficción, ya que soy computín me gustó más que a una persona normal.
+
+   Aún así ya leyendo otros libros de Gibson de años posteriores (este fue
+   el primero que sacó), me parece que están mejor escritos los que
+   publicó luego, como que la experiencia lo volvió mejor escritor.
+
+   Es decir, el libro me gustó pero me pareció un poco confuso y muy
+   descriptivo por tramos.
