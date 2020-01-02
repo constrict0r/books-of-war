@@ -6,6 +6,10 @@
 
   283 páginas.
 
+  #+CAPTION: Atomic Habits.
+  #+NAME:   fig:00-atomic-habits
+  [[./img/04-atomic-habits.png]]      
+
 ** Trama
 
    Este libro describe una metodología para crear buenos hábitos y

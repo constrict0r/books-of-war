@@ -6,6 +6,10 @@
 
   277 páginas.
 
+  #+CAPTION: Org Mode.
+  #+NAME:   fig:00-org-mode
+  [[./img/06-manual-org-mode.png]]       
+
 ** Trama
 
    El manual completo para el modo organizacional de Emacs.

@@ -6,6 +6,10 @@
 
   182 páginas.
 
+  #+CAPTION: La fundación.
+  #+NAME:   fig:00-fundación
+  [[./img/02-fundación.png]]  
+
 ** Trama
 
    Isaac Asimov recrea la historia de la humanidad en un futuro distante.

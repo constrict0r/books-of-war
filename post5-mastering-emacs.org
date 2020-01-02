@@ -6,6 +6,10 @@
 
   277 páginas.
 
+  #+CAPTION: Mastering Emacs.
+  #+NAME:   fig:00-mastering-emacs
+  [[./img/05-mastering-emacs.png]]     
+
 ** Trama
 
    Un libro sobre el uso práctico de Emacs, incluye el movimiento, edición,

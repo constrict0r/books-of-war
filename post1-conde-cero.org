@@ -6,6 +6,11 @@
 
   276 páginas.
 
+  #+CAPTION: Conde Cero, Turner y Marly.
+  #+NAME:   fig:00-conde-cero
+  [[./img/01-conde-cero.png]]
+
+
 ** Trama
 
    Bobby Newmark conocido como 'Conde Cero' es un hacker de dieciséis años

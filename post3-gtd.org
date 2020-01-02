@@ -6,6 +6,10 @@
 
   278 páginas.
 
+  #+CAPTION: Getting Things Done.
+  #+NAME:   fig:00-gtd
+  [[./img/03-gtd.png]]
+
 ** Trama
 
    Este libro describe una metodología ágil de organización personal.
