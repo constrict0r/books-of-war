@@ -1,8 +1,8 @@
-#+title: Manual de Org Mode - Los desarrolladores de Org Mode.
+#+title: Manual de Org Mode - Los desarrolladores de Org Mode
 #+author: constrict0r
 #+date: <2020-01-02 jue>
 
-* Manual de Org Mode - Los desarrolladores de Org Mode.
+* Manual de Org Mode - Los desarrolladores de Org Mode
 
   277 páginas.
 

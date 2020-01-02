@@ -51,6 +51,7 @@
              :exclude (regexp-opt '("README" "draft"))
              :auto-sitemap t
              :sitemap-alphabetically t
+             :sitemap-sort-files "alphabetically"
              :sitemap-filename "index.org"
              :sitemap-file-entry-format "%d *%t*"
              :html-head-extra "<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\"/>"
