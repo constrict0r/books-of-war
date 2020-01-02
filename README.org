@@ -1,4 +1,4 @@
-#+title: The Madvillain Books Reviews.
+#+title: Books of War
 #+author: constrict0r
 #+date: <2020-01-02 jue>
 
