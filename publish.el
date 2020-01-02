@@ -42,7 +42,7 @@
 
 (setq org-publish-project-alist
       (list
-       (list "site-org"
+       (list "books-of-war"
              :base-directory "."
              :base-extension "org"
              :recursive t
@@ -62,7 +62,7 @@
              :publishing-directory "./public"
              :publishing-function 'org-publish-attachment
              :recursive t)
-       (list "site" :components '("site-org"))))
+       (list "site" :components '("books-of-war"))))
 
 (provide 'publish)
 ;;; publish.el ends here
