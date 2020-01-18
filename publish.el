@@ -54,7 +54,7 @@
              :sitemap-sort-files 'alphabetically
              :sitemap-filename "index.org"
              :sitemap-file-entry-format "%d *%t*"
-             :html-head-extra "<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\"/>"
+             :html-head-extra "<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\"/><link rel=\"stylesheet\" href=\"./css/style.css\"/>"
              :sitemap-style 'list
              :sitemap-sort-files 'anti-chronologically)
        (list "site-static"
