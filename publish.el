@@ -62,7 +62,6 @@
              :exclude "public/"
              :base-extension site-attachments
              :publishing-directory "./public"
-             :style "<link rel=\"stylesheet\" href=\"css/style.css\" type=\"text/css\"/>"
              :publishing-function 'org-publish-attachment
              :recursive t)
        (list "site" :components '("books-of-war"))))
