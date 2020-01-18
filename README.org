@@ -4,4 +4,6 @@
 
 [[https://constrict0r.gitlab.io/books-of-war/][The Madvillain Books Review]]
 
+[[./img/books-of-war.png]]
+
 [[./img/author.png]]
