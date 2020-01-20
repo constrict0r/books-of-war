@@ -50,6 +50,7 @@
              :publishing-directory "./public"
              :exclude (regexp-opt '("README" "draft"))
              :auto-sitemap t
+             :sitemap-title "Books of War"
              :sitemap-alphabetically t
              :sitemap-sort-files 'alphabetically
              :sitemap-filename "index.org"
