@@ -22,3 +22,5 @@
    Personalmente en mi camino hacia la iluminación GTD me parece una
    herramienta indispensable y cuando se combina con Org Mode de Emacs, es
    como ver magia.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Getting%20Things%20Done%20-%20David%20Allen.pdf?inline=false][GTD]]

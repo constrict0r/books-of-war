@@ -19,3 +19,5 @@
 ** Opinión
 
    Muy bien escrito, el mejor libro para empezar a aprender Emacs.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Mastering%20Emacs%20-%20Mickey%20Petersen.pdf?inline=false][Mastering Emacs]]

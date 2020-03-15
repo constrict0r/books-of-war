@@ -24,4 +24,7 @@
    Este libro es una recopilación de entradas del blog de James Clear por lo
    que por momentos se siente como estar leyendo un blog y no un libro.
 
-   La metodología en sí es un buen complemento para GTD.
+ 
+  La metodología en sí es un buen complemento para GTD.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Atomic%20Habits%20-%20James%20Clear.epub][Atomic Habits]]

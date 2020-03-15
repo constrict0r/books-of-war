@@ -21,3 +21,5 @@
 
    Org Mode es sin lugar a dudas la mejor manera de usar Emacs y si se
    combina con GTD, es la mejor manera de organizarse.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Org%20Mode%20Manual%20-%20Emacs.pdf?inline=false][Org Mode]]
