@@ -20,4 +20,4 @@
    Para un programador experimentado es muy básico, no ahonda mucho en
    cada concepto.
 
-[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Introduccion%20a%20la%20porgramacion%20en%20Python%20-%20Andr%C3%A9s%20Marzal.pdf?inline=false][Introducción Python]]
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Introduccion%20a%20la%20programacion%20en%20Python%20-%20Andr%C3%A9s%20Marzal.pdf?inline=false][Introducción Python]]

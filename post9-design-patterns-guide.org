@@ -1,0 +1,21 @@
+#+title: Engineering Managers Guide Design Patterns - Eric Freeman
+#+author: constrict0r
+#+date: <2020-03-23 lun>
+
+* Engineering Managers Guide Design Patterns - Eric Freeman
+
+  28 páginas.
+
+  #+CAPTION: Guía Patrones Diseño
+  #+NAME:   fig:09-guía-patrones
+  [[./img/09-guía-patrones.png]]
+
+** Trama
+
+   Primer vistazo corto al uso de patrones de diseño.
+   
+** Opinión
+
+   Muy corto pero útil, sirve como una motivación introductoria para aprender patrones.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Engineering%20Managers%20Guide%20Design%20Patterns%20-%20Eric%20Freeman.pdf?inline=false][Guía Patrones Diseño]]
