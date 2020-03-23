@@ -6,8 +6,8 @@
 
   277 páginas.
 
-  #+CAPTION: Org Mode.
-  #+NAME:   fig:00-org-mode
+  #+CAPTION: Easyway.
+  #+NAME:   fig:07-easyway
   [[./img/07-easyway.png]]
 
 ** Trama
