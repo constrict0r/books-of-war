@@ -1,0 +1,23 @@
+#+title: Introducción a la programación con Python - Andrés Marzal
+#+author: constrict0r
+#+date: <2020-03-23 lun>
+
+* Introducción a la programación con Python - Andreś Marzal
+
+  408 páginas.
+
+  #+CAPTION: Introducción a Python
+  #+NAME:   fig:08-intro-python
+  [[./img/08-intro-python.png]]
+
+** Trama
+
+   Buen libro introductorio a la programación en Python, cubre variables,
+   tipos de datos, funciones, colecciones, clases y demás temas básicos.
+
+** Opinión
+
+   Para un programador experimentado es muy básico, no ahonda mucho en
+   cada concepto.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Introduccion%20a%20la%20porgramacion%20en%20Python%20-%20Andr%C3%A9s%20Marzal.pdf?inline=false][Introducción Python]]
