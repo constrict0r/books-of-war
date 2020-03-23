@@ -8,7 +8,7 @@
 
   #+CAPTION: Org Mode.
   #+NAME:   fig:00-org-mode
-  [[./img/06-manual-org-mode.png]]       
+  [[./img/06-manual-org-mode.png]]k
 
 ** Trama
 

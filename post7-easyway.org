@@ -1,0 +1,32 @@
+#+title: Easy Way To Stop Smoking - Allen Carr.
+#+author: constrict0r
+#+date: <2020-03-23 lun>
+
+* Easy Way To Stop Smoking - Allen Carr
+
+  277 páginas.
+
+  #+CAPTION: Org Mode.
+  #+NAME:   fig:00-org-mode
+  [[./img/07-easyway.png]]
+
+** Trama
+
+   Allen Carr explica su método empírico para dejar de fumar.
+
+   Los cigarrillos no llenan un vacío sino que más bien lo crean.
+
+   Las personas no dejan de fumar por MIEDO, miedo a que su vida no sea la
+   misma si dejan de fumar.
+
+   Así que deja de fumar y no llores por ello.
+
+** Opinión
+
+   Aunque Carr presenta su libro como un píldora mágica para dejar de fumar
+   pero no es precisamente eso.
+
+   Sin embargo y como él lo dice en el libro: "Aunque no funcione es el mejor
+   método de todos para dejar de fumar".
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Easy%20Way%20To%20Stop%20Smoking%20-%20Allen%20Carr.pdf?inline=false][Easyway]]
