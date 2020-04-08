@@ -19,4 +19,4 @@
    Bastante básico, me parece más provechoso sentarse a jugar con Moodle que
    leer el libro.
 
-[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Moodle%20E-learning%20Course%20Development?inline=false][Moodle E-learning Course Development]]
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Moodle%20E-learning%20Course%20Development%20-%20William%20Rice.pdf?inline=false][Moodle E-learning Course Development]]
