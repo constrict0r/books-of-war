@@ -1,0 +1,22 @@
+#+title: Moodle E-learning Course Development - William Rice
+#+author: constrict0r
+#+date: <2020-04-07 mar>
+
+* Moodle E-learning Course Development
+
+  405 páginas.
+
+  #+CAPTION: Moodle Course Development
+  #+NAME:   fig:10-moodle-course
+  [[./img/10-moodle-course.png]]
+
+** Trama
+
+   Descripción de las características centrales de Moodle.
+   
+** Opinión
+
+   Bastante básico, me parece más provechoso sentarse a jugar con Moodle que
+   leer el libro.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Moodle%20E-learning%20Course%20Development?inline=false][Moodle E-learning Course Development]]
