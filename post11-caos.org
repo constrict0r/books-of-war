@@ -1,0 +1,31 @@
+#+title: Caos - James Gleick
+#+author: constrict0r
+#+date: <2021-05-03 lun>
+
+* Caos - James Gleick
+
+  352 páginas.
+
+  #+CAPTION: Caos 
+  #+NAME:   fig:11-caos
+  [[./img/11-caos.png]]
+
+** Trama
+
+   Lleva a cabo un relato sobre algunos héroes de la ciencias (ej: Lorentz,
+   David Ruelle, Benoit Mandelbrot) y sobre sus observaciones respecto al caos
+   , estos héroes pasaron de usar ecuaciones simplistas (lineales) a indagar
+   en la ecuaciones no-lineales caóticas y hasta a llegar a formular
+   teoría para descifrar el caos, por ejemplo la universalidad de
+   Mitchell Feigenbaum, el exponenete de Lyapunnov y los atractores
+   extraños.
+
+   También describe como en distintos campos de las ciencias tales como
+   la biología, la cardiología, la física, las matemáticas y algunas más
+   suceden fenómenos debidos a la naturaleza no lineal del cosmos.
+   
+** Opinión
+
+   Un gran libro, muy bien escrito pero sumamente denso.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Caos%20-%20James%20Gleick.pdf?inline=false][Caos]]
