@@ -6,8 +6,8 @@
 
   491 páginas.
 
-  #+CAPTION: Ansible
-  #+NAME:   fig:12-practical-ansible
+  #+CAPTION: Practical Ansible 2
+  #+NAME:   fig:12-practical-ansible-2
   [[./img/12-practical-ansible-2.png]]
 
 ** Trama
@@ -22,4 +22,4 @@
 
    Es muy sobrio lo que lo hace un poco aburrido.
 
-[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Practical%20Ansible%202%20-%20Fabio%20Alessandro%20Locati.epub][Practical Ansible]] 
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Practical%20Ansible%202%20-%20Fabio%20Alessandro%20Locati.epub][Practical Ansible 2]]
