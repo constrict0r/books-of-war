@@ -1,8 +1,8 @@
-#+title: Practical Ansible 2 - 
+#+title: Practical Ansible 2 - Fabio Alessandro Locati
 #+author: constrict0r
 #+date: <2021-05-25 mar>
 
-* Caos - Fabio Alessandro Locati
+* Practical Ansible 2 - Fabio Alessandro Locati
 
   491 páginas.
 
