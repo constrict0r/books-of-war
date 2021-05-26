@@ -1,0 +1,23 @@
+#+title: Practical Ansible Configuration Management - Vicent Sesto
+#+author: constrict0r
+#+date: <2021-05-26 mié>
+
+* Practical Ansible Configuration Management - Fabio Alessandro Locati
+
+  491 páginas.
+
+  #+CAPTION: Practical Ansible Configuration Management
+  #+NAME:   fig:13-practical-ansible-configuration-management
+  [[./img/13-practical-ansible-configuration-management.png]]
+
+** Trama
+
+   Explicación de Ansible y cómo usarlo para despliegue en la nube.
+   
+** Opinión
+
+   Este libro es muy desordenado, si no conoce Ansible de antemano es confuso.
+
+   Los capítulos acerca de despliegue en AWS son útiles.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Practical%20Ansible%20Configuration%20Management%20-%20Vincent%20Sesto.pdf?inline=false][Practical Ansible Configuration Management]]
