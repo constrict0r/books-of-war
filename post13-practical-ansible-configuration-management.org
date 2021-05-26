@@ -1,8 +1,8 @@
-#+title: Practical Ansible Configuration Management - Vicent Sesto
+#+title: Practical Ansible Configuration Management - Vincent Sesto
 #+author: constrict0r
 #+date: <2021-05-26 mié>
 
-* Practical Ansible Configuration Management - Fabio Alessandro Locati
+* Practical Ansible Configuration Management - Vincent Sesto
 
   491 páginas.
 
