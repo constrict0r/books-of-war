@@ -1,0 +1,25 @@
+#+title: Practical Ansible 2 - 
+#+author: constrict0r
+#+date: <2021-05-25 mar>
+
+* Caos - Fabio Alessandro Locati
+
+  491 páginas.
+
+  #+CAPTION: Ansible
+  #+NAME:   fig:12-practical-ansible
+  [[./img/12-practical-ansible-2.png]]
+
+** Trama
+
+   Explica en detalle y a través de ejemplos cada aspecto
+   de Ansible.
+   
+** Opinión
+
+   Libro muy detallado, me sirvió para llenar los vacíos que tenía sobre
+   Ansible.
+
+   Es muy sobrio lo que lo hace un poco aburrido.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Practical%20Ansible%202%20-%20Fabio%20Alessandro%20Locati.epub][Practical Ansible]] 
