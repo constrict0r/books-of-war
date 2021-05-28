@@ -1,0 +1,40 @@
+#+title: Mona Lisa acelerada - William Gibson
+#+author: constrict0r
+#+date: <2021-05-28 vie>
+
+* Mona Lisa acelerada - William Gibson
+
+  287 páginas.
+
+  #+CAPTION: Mona Lisa acelerada
+  #+NAME:   fig:14-mona-lisa-acelerada
+  [[./img/14-mona-lisa-acelerada.png]]
+
+** Trama
+
+   Angie Mitchell se ha convertdio en una estrella de simestrin y ya
+   no está con Bobby Newark.
+
+   Bobby se ha conectado a un aleph y le ha pagado a Kid Africa para
+   que lo proteja, este a su vez lo deja con Slick Henry en la casa
+   (la fábrica) de Gentry.
+
+   Gentry que es un techie al ver a Bobby en una camilla y conectado
+   al aleph decide meterse también.
+
+   Gentry y Bobby se entienden, ambos buscan la forma de la matriz,
+   buscan lo que produjo "el cambio".
+
+   En ese aleph logran atrapar a lady 3Jane y descubren que lo
+   que produjo el cambio es otra IA (otra matriz) que se encuentra
+   en la constelación de Centauro.
+
+   Todo esto pasa en medio de combates protagonizados mayoritariamente
+   por Sally Shears "la chica navaja".
+   
+** Opinión
+
+   Muy bueno, me gusta el papel integrador de Sally entre la trilogía
+   de Neuromante.
+
+[[https://gitlab.com/constrict0r/books-of-war/-/raw/master/doc/Mona%20Lisa%20Acelerada%20-%20William%20Gibson.epub][Mona Lisa acelerada]]
